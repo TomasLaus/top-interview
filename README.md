@@ -8,9 +8,9 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Problems%20Solved-3-brightgreen.svg?style=for-the-badge">
 	<img src="https://img.shields.io/badge/Language-TypeScript-blue.svg?style=for-the-badge">
-	<img src="https://img.shields.io/badge/Latest%20Update-01/27/2024-brightgreen.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Latest%20Update-01/30/2024-brightgreen.svg?style=for-the-badge">
 </p>
 
 
@@ -23,3 +23,4 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|
 | 88 |[Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)| [TypeScript](./Merge%20Sorted%20Array/solution.ts) | _O(m + n)_ | _O(1)_| Easy | |
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/)| [TypeScript](./Remove%20Element/solution.ts) | _O(n)_ | _O(1)_| Easy | |
+| 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [TypeScript](./Remove%20Element/solution.ts) | _O(n)_ | _O(1)_| Easy | |
