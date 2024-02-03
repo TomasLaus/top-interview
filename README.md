@@ -8,9 +8,9 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Problems%20Solved-6-brightgreen.svg?style=for-the-badge">
 	<img src="https://img.shields.io/badge/Language-TypeScript-blue.svg?style=for-the-badge">
-	<img src="https://img.shields.io/badge/Latest%20Update-01/31/2024-brightgreen.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Latest%20Update-02/03/2024-brightgreen.svg?style=for-the-badge">
 </p>
 
 
@@ -26,3 +26,4 @@
 | 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [TypeScript](./Remove%20Duplicates%20from%20Sorted%20Array/solution.ts) | _O(n)_ | _O(1)_| <span style="color:green">Easy</span> | |
 | 80 |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [TypeScript](./Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.ts) | _O(n)_ | _O(1)_| <span style="color:orange">Medium</span> | |
 | 169 |[Majority Element](https://leetcode.com/problems/majority-element/)| [TypeScript](./Majority%20Element/solution.ts) | _O(n)_ | _O(1)_| <span style="color:green">Easy</span> | |
+| 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)| [TypeScript](./Rotate%20Array/solution.ts) | _O(n)_ | _O(1)_| <span style="color:orange">Medium</span> | |
